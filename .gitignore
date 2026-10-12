@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+countries.db
+.exported_countries.tmp
+.DS_Store
